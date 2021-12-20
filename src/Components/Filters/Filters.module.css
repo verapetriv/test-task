@@ -1,0 +1,16 @@
+.filters {
+  width: 250px;
+  margin-bottom: 30px;
+}
+.form_row {
+    height: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.text {
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
